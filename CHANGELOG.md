@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+### [0.21.1](https://github.com/Zapper-fi/studio/compare/v0.21.0...v0.21.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* **curve:** support cadc/usdc staked balances ([#392](https://github.com/Zapper-fi/studio/issues/392)) ([e695216](https://github.com/Zapper-fi/studio/commit/e6952168e9fe9810456034b6533a7ce3eba3aa31))
+
 ## [0.21.0](https://github.com/Zapper-fi/studio/compare/v0.20.0...v0.21.0) (2022-05-09)
 
 
